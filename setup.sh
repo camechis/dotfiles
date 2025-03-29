@@ -11,6 +11,8 @@ packages=(
   "kitty"
   "alacritty"
   "ghostty"
+  "jdk21-openjdk"
+  "clojure"
   # Add more packages as needed
 )
 
