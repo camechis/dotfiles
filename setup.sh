@@ -4,6 +4,13 @@
 packages=(
   "neovim"
   "emacs"
+  "k9s"
+  "waybar"
+  "wofi"
+  "hyprland"
+  "kitty"
+  "alacritty"
+  "ghostty"
   # Add more packages as needed
 )
 
