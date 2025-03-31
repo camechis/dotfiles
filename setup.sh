@@ -13,6 +13,9 @@ packages=(
   "ghostty"
   "jdk21-openjdk"
   "clojure"
+  "ttf-font-nerd"
+  "starship"
+  "xdg-desktop-portal-hyprland"
   # Add more packages as needed
 )
 
