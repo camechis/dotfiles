@@ -16,6 +16,7 @@ packages=(
   "ttf-font-nerd"
   "starship"
   "xdg-desktop-portal-hyprland"
+  "tmux"
   # Add more packages as needed
 )
 
